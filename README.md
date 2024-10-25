@@ -1,6 +1,8 @@
 # TITAN Update Site 
 Eclipse plug-in for Petri net product line analysis
 
+<img src="https://github.com/TITAN-Petri-Nets-Product-Lines/UpdateSite/blob/main/images/update-site-screenshot.png" width="500" height="400">
+
 ## Requirements
 * Eclipse Modeling Tools - 2024-09
 * Eclipse Collections Developer Resources 
@@ -10,4 +12,4 @@ Eclipse plug-in for Petri net product line analysis
 * Sirius - 7.4 (including integration with xtext)
 * Xtext / Sirius Integration - https://altran-mde.github.io/xtext-sirius-integration.io/p2/
 
-For more information, see the wiki.
+For more information, see the wiki (https://github.com/TITAN-Petri-Nets-Product-Lines/UpdateSite/wiki).
