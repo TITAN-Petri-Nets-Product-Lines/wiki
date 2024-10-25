@@ -12,4 +12,4 @@ Eclipse plug-in for Petri net product line analysis
 * Sirius - 7.4 (including integration with xtext)
 * Xtext / Sirius Integration - https://altran-mde.github.io/xtext-sirius-integration.io/p2/
 
-For more information, see the wiki (https://github.com/TITAN-Petri-Nets-Product-Lines/UpdateSite/wiki).
+For more information, see the [wiki](https://github.com/TITAN-Petri-Nets-Product-Lines/wiki/wiki).
